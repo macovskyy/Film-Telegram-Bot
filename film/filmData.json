@@ -1,0 +1,329 @@
+[
+    {
+        "name": "Інтерстеллар",
+        "rating": "8.7",
+        "date": 2014,
+        "genre": "Драма",
+        "director": "Крістофер Нолан",
+        "time": "2 години 49 хвилин",
+        "image": "https://www.imdb.com/title/tt0816692/mediaviewer/rm3061987841/?ref_=tt_ov_i"
+    },
+    {
+        "name": "Початок",
+        "rating": "8.8",
+        "date": 2010,
+        "genre": "Трилер",
+        "director": "Крістофер Нолан",
+        "time": "2 години 28 хвилин",
+        "image": "https://www.imdb.com/title/tt1375666/mediaviewer/rm2428910081/?ref_=tt_ov_i"
+    },
+    {
+        "name": "Не дивіться вгору",
+        "rating": "7.9",
+        "date": 2021,
+        "genre": "Комедія",
+        "director": "Адам Мак-Кей",
+        "time": "2 години 18 хвилин",
+        "image": "https://upload.wikimedia.org/wikipedia/uk/0/06/%D0%9D%D0%B5_%D0%B4%D0%B8%D0%B2%D1%96%D1%82%D1%8C%D1%81%D1%8F_%D0%B2%D0%B3%D0%BE%D1%80%D1%83%2C_2021%2C_%D0%BF%D0%BE%D1%81%D1%82%D0%B5%D1%80.jpg"
+    },
+    {
+        "name": "Без образ",
+        "rating": "6.8",
+        "date": 2023,
+        "genre": "Комедія",
+        "director": "Том Морахан",
+        "time": "1 година 50 хвилин",
+        "image": "https://www.imdb.com/title/tt15671028/mediaviewer/rm2510237441/?ref_=tt_ov_i"
+    },
+    {
+        "name": "Люксембург, Люксембург",
+        "rating": "8.2",
+        "date": 2023,
+        "genre": "Комедія",
+        "director": "Олександр Роднянський",
+        "time": "1 година 55 хвилин",
+        "image": "https://www.imdb.com/title/tt19783714/mediaviewer/rm4003080193/?ref_=tt_ov_i"
+    },
+    {
+        "name": "Татусів уїкенд",
+        "rating": "5.8",
+        "date": 2023,
+        "genre": "Комедія",
+        "director": "Натан Гріноуолл",
+        "time": "1 година 38 хвилин",
+        "image": "https://www.imdb.com/title/tt8373206/mediaviewer/rm2804559617/?ref_=tt_ov_i"
+    },
+    {
+        "name": "Персональний водій",
+        "rating": "6.9",
+        "date": 2023,
+        "genre": "Комедія",
+        "director": "Олів'є Ассайас",
+        "time": "1 година 40 хвилин",
+        "image": "https://www.imdb.com/title/tt14586118/mediaviewer/rm3518701825/?ref_=tt_ov_i"
+    },
+    {
+        "name": "До тебе чи до мене",
+        "rating": "5.6",
+        "date": 2023,
+        "genre": "Комедія",
+        "director": "Нік Касс",
+        "time": "1 година 42 хвилини",
+        "image": "https://www.imdb.com/title/tt12823454/mediaviewer/rm3258724353/?ref_=tt_ov_i"
+    },
+    {
+        "name": "Квиток до раю",
+        "rating": "6.1",
+        "date": 2022,
+        "genre": "Комедія",
+        "director": "Олівер Голдмен",
+        "time": "1 година 52 хвилини",
+        "image": "https://www.imdb.com/title/tt14109724/mediaviewer/rm246546433/?ref_=tt_ov_i"
+    },
+    {
+        "name": "Зірки і цукор",
+        "rating": "6.5",
+        "date": 2023,
+        "genre": "Драма",
+        "director": "Себастьєн Тюлар",
+        "time": "1 година 50 хвилин",
+        "image": "https://www.imdb.com/title/tt19815386/mediaviewer/rm429533185/?ref_=tt_ov_i"
+    },
+
+{
+        "name": "Кит",
+        "rating": "7.7",
+        "date": 2022,
+        "genre": "Драма",
+        "director": "Нік Кассаветіс",
+        "time": "2 години 06 хвилин",
+        "image": "https://www.imdb.com/title/tt13833688/mediaviewer/rm752499201/?ref_=tt_ov_i"
+    },
+
+{
+        "name": "Син",
+        "rating": "6.4",
+        "date": 2022,
+        "genre": "Драма",
+        "director": "Флоріан Зеллер",
+        "time": "1 година 45 хвилин",
+        "image": "https://www.imdb.com/title/tt14458442/mediaviewer/rm2309621249/?ref_=tt_ov_i"
+    },
+
+{
+        "name": "Дім Ґуччі",
+        "rating": "6.6",
+        "date": 2021,
+        "genre": "Драма",
+        "director": "Рідлі Скотт",
+        "time": "2 години 37 хвилин",
+        "image": "https://www.imdb.com/title/tt11214590/mediaviewer/rm1248389377/?ref_=tt_ov_i"
+    },
+
+{
+        "name": "Ще по одній",
+        "rating": "7.7",
+        "date": 2020,
+        "genre": "Драма",
+        "director": "Томас Винтерберг",
+        "time": "1 година 45 хвилин",
+        "image": "https://www.imdb.com/title/tt10288566/mediaviewer/rm2065882113/?ref_=tt_ov_i"
+    },
+
+{
+        "name": "Батько",
+        "rating": "8.2",
+        "date": 2020,
+        "genre": "Драма",
+        "director": "Флоріан Зеллер",
+        "time": "1 година 39 хвилин",
+        "image": "https://www.imdb.com/title/tt10272386/mediaviewer/rm525706753/?ref_=tt_ov_i"
+    },
+
+{
+        "name": "Форд проти Фераррі",
+        "rating": "8.1",
+        "date": 2019,
+        "genre": "Драма",
+        "director": "Джеймс Мангольд",
+        "time": "2 години 32 хвилини",
+        "image": "https://www.imdb.com/title/tt1950186/mediaviewer/rm1869024001/?ref_=tt_ov_i"
+    },
+
+    {
+        "name": "Джокер",
+        "rating": "8.4",
+        "date": 2019,
+        "genre": "Драма",
+        "director": "Тодд Філліпс",
+        "time": "2 години 02 хвилини",
+        "image": "https://www.imdb.com/title/tt7286456/mediaviewer/rm3353122305/?ref_=tt_ov_i"
+    },
+
+    {
+        "name": "Зелена книга",
+        "rating": "8.2",
+        "date": 2018,
+        "genre": "Драма",
+        "director": "Пітер Фарреллі",
+        "time": "2 години 10 хвилин",
+        "image": "https://www.imdb.com/title/tt6966692/mediaviewer/rm2461296640/?ref_=tt_ov_i"
+    },
+
+{
+        "name": "Три білборди під Еббінґом, Міссурі",
+        "rating": "8.1",
+        "date": 2017,
+        "genre": "Драма",
+        "director": "Мартін Макдонах",
+        "time": "1 година 55 хвилин",
+        "image": "https://www.imdb.com/title/tt5027774/mediaviewer/rm3800849152/?ref_=tt_ov_i"
+    },
+
+{
+        "name": "З міркувань совісті",
+        "rating": "8.1",
+        "date": 2016,
+        "genre": "Драма",
+        "director": "Мел Гібсон",
+        "time": "2 години 02 хвилини",
+        "image": "https://www.imdb.com/title/tt2119532/mediaviewer/rm2660241152/?ref_=tt_ov_i"
+    },
+
+    {
+        "name": "Тенет",
+        "rating": "7.8",
+        "date": 2020,
+        "genre": "Бойовик",
+        "director": "Крістофер Нолан",
+        "time": "140 хвилин",
+        "image": "https://www.imdb.com/title/tt6723592/mediaviewer/rm3762886401/?ref_=tt_ov_i"
+    },
+    {
+        "name": "Безсмертна гвардія",
+        "rating": "6.6",
+        "date": 2020,
+        "genre": "Бойовик",
+        "director": "Кріс Прістлі",
+        "time": "120 хвилин",
+        "image": "https://www.imdb.com/title/tt7556122/mediaviewer/rm3142388737/?ref_=tt_ov_i"
+    },
+    {
+        "name": "Форпост",
+        "rating": "6.8",
+        "date": 2020,
+        "genre": "Бойовик",
+        "director": "Род Лурі",
+        "time": "121 хвилина",
+        "image": "https://www.imdb.com/title/tt3833480/mediaviewer/rm464958465/?ref_=tt_ov_i"
+    },
+    {
+        "name": "Тайлер Рейк: Операція з порятунку",
+        "rating": "6.7",
+        "date": 2020,
+        "genre": "Бойовик",
+        "director": "Сам Харгрейв",
+        "time": "116 хвилин",
+        "image": "https://www.imdb.com/title/tt8936646/mediaviewer/rm1228321793/?ref_=tt_ov_i"
+    },
+    {
+        "name": "Погані хлопці назавжди",
+        "rating": "6.6",
+        "date": 2020,
+        "genre": "Бойовик",
+        "director": "Адил Ель Арби, Білал Фалла",
+        "time": "124 хвилини",
+        "image": "https://www.imdb.com/title/tt1502397/mediaviewer/rm3072427777/?ref_=tt_ov_i"
+    },
+    {
+        "name": "Джон Вік: Глава 3",
+        "rating": "7.4",
+        "date": 2019,
+        "genre": "Бойовик",
+        "director": "Чад Стахелскі",
+        "time": "141 хвилина",
+        "image": "https://www.imdb.com/title/tt6146586/mediaviewer/rm2374853376/?ref_=tt_ov_i"
+    },
+    {
+        "name": "Форсаж: Хоббс та Шоу",
+        "rating": "6.4",
+        "date": 2019,
+        "genre": "Бойовик",
+        "director": "Девід Літт",
+        "time": "137 хвилин",
+        "image": "https://www.imdb.com/title/tt6806448/mediaviewer/rm2147389953/?ref_=tt_ov_i"
+    },
+    {
+        "name": "Полонянки",
+        "rating": 8.1,
+        "date": 2013,
+        "genre": "Трилер",
+        "director": "Дені Вільньов",
+        "image": "https://www.imdb.com/title/tt1392214/mediaviewer/rm1033886464/?ref_=tt_ov_i",
+        "time": "2 години 49 хвилин"
+    },
+    {
+        "name": "Невидимий гість",
+        "rating": 8.1,
+        "date": 2016,
+        "genre": "Трилер",
+        "director": "Оріолі Паоло",
+        "image": "https://www.imdb.com/title/tt4857264/mediaviewer/rm2063468288/?ref_=tt_ov_i",
+        "time": "1 година 45 хвилин"
+    },
+    {
+        "name": "Не впіймали - не злодій",
+        "rating": 7.6,
+        "date": 2006,
+        "genre": "Трилер",
+        "director": "Спайк Лі",
+        "image": "https://www.imdb.com/title/tt0454848/mediaviewer/rm4151512576/?ref_=tt_ov_i",
+        "time": "2 години 18 хвилин"
+    },
+    {
+        "name": "Життя інших",
+        "rating": 8.5,
+        "date": 2006,
+        "genre": "Трилер",
+        "director": "Флоріан Хенкель фон Доннерсмарк",
+        "image": "https://www.imdb.com/title/tt0405094/mediaviewer/rm2788630273/?ref_=tt_ov_i",
+        "time": "2 години 22 хвилини"
+    },
+    {
+        "name": "Малхолланд Драйв",
+        "rating": 8.3,
+        "date": 1999,
+        "genre": "Трилер",
+        "director": "Девід Лінч",
+        "image": "https://www.imdb.com/title/tt0166924/mediaviewer/rm4131972609/?ref_=tt_ov_i",
+        "time": "2 години 7 хвилин"
+    },
+    {
+        "name": "Адвокат диявола",
+        "rating": 7.5,
+        "date": 1997,
+        "genre": "Трилер",
+        "director": "Тейлор Хекфорд",
+        "image": "https://www.imdb.com/title/tt0118971/mediaviewer/rm2328691200/?ref_=tt_ov_i",
+        "time": "2 години 34 хвилини"
+    },
+    {
+        "name": "Похований живцем",
+        "rating": 7.0,
+        "date": 2010,
+        "genre": "Трилер",
+        "director": "Родріго Кортес",
+        "image": "https://www.imdb.com/title/tt1462758/mediaviewer/rm3791330816/?ref_=tt_ov_i",
+        "time": "1 година 35 хвилин"
+    },
+
+    {
+        "name": "Бійцівський клуб",
+        "rating": 8.8,
+        "date": 1999,
+        "genre": "Трилер",
+        "director": "Девід Фінчер",
+        "image": "https://www.imdb.com/title/tt0137523/mediaviewer/rm214317569/?ref_=tt_ov_i",
+        "time": "2 години 19 хвилин"
+    }
+]
